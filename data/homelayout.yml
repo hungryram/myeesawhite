@@ -17,15 +17,16 @@ slideshow:
   heading: No Heavy Resources
 home_sections:
 - template: text-and-image
-  heading: Discover Our Finest Homes
-  body: Each section of the home page can be arranged and customized through your
-    phone or computer. Easily manage your website through our website editor customized
-    specifically for real estate professionals.
+  heading: About Myeesa White
+  body: |-
+    Myeesa White is a licensed real estate agent specializing in residential home sales and purchases in the Kansas City market. She is knowledgeable and persistent, continuously working on clients behalf and leaving no stone unturned to ensure her clients’ needs are met.
+
+    Selling or buying a home is one of the most important financial decisions most clients have to make. That is why Myeesa is committed to establishing a true relationship with them, to understand their unique goals and work with them towards achieving those goals.
   button: Read more
-  button_link: "/our-team"
-  image: https://res.cloudinary.com/hungryram19/image/upload/v1605402573/templates/realestate2/agent-4_ovchvb.jpg
-  image_alt_tag: John
-  image_width: '400'
+  button_link: "/about"
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1611897302/myeesa-white/myeesa-white-realtor/myeesawhite_pmwhue.jpg
+  image_alt_tag: Myeesa White
+  image_width: 400
 - template: featured-idx-listings
   heading: View Listings from the MLS
   body: ''
