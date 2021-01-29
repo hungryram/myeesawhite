@@ -47,8 +47,8 @@ home_sections:
     link: "/contact"
 - template: text-and-contact-form
   heading: We help you buy or sell your property quickly
-  body: Engage with our professional real estate agents to sell, buy or rent your
-    home. Get emails directly to your inbox and manage the lead as you wish.
+  body: We provide services to help people to find house which is affordable and their
+    needs. As the housing market changes consistently, so do the budgets of individuals.
   background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605403006/templates/realestate2/clean-living-room_b3bubn.jpg
   form:
     heading: Send a message
