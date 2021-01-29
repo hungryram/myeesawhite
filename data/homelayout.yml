@@ -8,13 +8,14 @@ slideshow:
   body: My Passion Is To Help Families Find The Perfect Home That Aligns With Their
     Wants And Needs.
   enable_white_text: true
-- image: https://res.cloudinary.com/hungryram19/image/upload/v1605404343/templates/realestate2/farmhousekitchen_z56hb7.jpg
+- image: https://res.cloudinary.com/hungryram19/image/upload/v1611901773/myeesa-white/myeesa-white-realtor/kitchen-with-leaves_lbivi8.jpg
   subtitle: my subtitle
-  body: 'No need to bloat the website with drag and drop or page builders. '
+  body: Whether you're looking for your first home or your forever home, we can help
+    you navigate the local market with expertise.
   enable_white_text: true
   link: View Properties
   link_label: "/listings"
-  heading: No Heavy Resources
+  heading: Let's make your home-buying dreams a reality!
 home_sections:
 - template: text-and-image
   heading: About Myeesa White
