@@ -42,25 +42,6 @@ home_sections:
       home. Get emails directly to your inbox and manage the lead as you wish.
   background_color: "#424242"
   enable_white_text: true
-- template: tiles
-  heading: Featured Areas
-  body: View our best homes
-  tile_one:
-    heading: Feature One
-    image: ''
-    link: https://google.com
-  tile_two:
-    heading: Feature Two
-    image: ''
-    link: "/contact"
-  tile_three:
-    heading: Feature Three
-    image: ''
-    link: "/contact"
-  tile_four:
-    heading: Feature Four
-    image: ''
-    link: "/team"
 - template: home-blog
   heading: Our Blog
   body: Keep up with latest posts
