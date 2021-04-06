@@ -8,22 +8,22 @@ weight = 1
 [[menu.main]]
 name = "Mortgage Calculator"
 parent = "Resources"
-url = "https://search.idxhome.com//mortcalc/133408"
+url = "https://search.idxhome.com//mortcalc/152203"
 weight = 3
+[[menu.main]]
+name = "Featured Listings"
+parent = "Buyers"
+url = "https://search.idxhome.com//featured/152203"
+weight = 2
 [[menu.main]]
 name = "Blog"
 parent = "Resources"
 url = "/blog"
 weight = 2
 [[menu.main]]
-name = "Featured Listings"
-parent = "Buyers"
-url = "https://search.idxhome.com//featured/133408"
-weight = 2
-[[menu.main]]
 name = "Search Homes"
 parent = "Buyers"
-url = "https://search.idxhome.com/homesearch/133408"
+url = "https://search.idxhome.com/homesearch/152203"
 weight = 1
 [[menu.main]]
 name = "Home Value Request"
@@ -45,7 +45,7 @@ url = "/"
 weight = 1
 [[menu.main]]
 name = "Login/Register"
-url = "https://search.idxhome.com//organizer/login/133408"
+url = "https://search.idxhome.com//organizer/login/152203"
 weight = 7
 [outputs]
 home = ["HTML", "RSS", "JSON"]
